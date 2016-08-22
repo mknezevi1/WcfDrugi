@@ -1,0 +1,64 @@
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\WcfDrugi.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\WcfDrugi.pdb
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Antlr3.Runtime.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.AspNet.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.Core.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\EntityFramework.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\System.Web.Optimization.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\System.Web.Providers.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\WebGrease.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\EntityFramework.xml
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.Core.xml
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.xml
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.xml
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.AspNet.xml
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\obj\Debug\WcfDrugi.csprojResolveAssemblyReference.cache
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\obj\Debug\WcfDrugi.dll
+c:\users\matijak\documents\visual studio 2012\Projects\WcfDrugi\WcfDrugi\obj\Debug\WcfDrugi.pdb
+C:\Users\matijak\Documents\Visual Studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Newtonsoft.Json.dll
+C:\Users\matijak\Documents\Visual Studio 2012\Projects\WcfDrugi\WcfDrugi\bin\Newtonsoft.Json.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\WcfDrugi.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\WcfDrugi.pdb
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Antlr3.Runtime.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.Core.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\EntityFramework.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Newtonsoft.Json.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\System.Web.Optimization.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\System.Web.Providers.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\WebGrease.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\Newtonsoft.Json.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\EntityFramework.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.Core.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\obj\Debug\WcfDrugi.csprojResolveAssemblyReference.cache
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\obj\Debug\WcfDrugi.dll
+C:\Users\Matija\Desktop\WcfDrugi\WcfDrugi\obj\Debug\WcfDrugi.pdb
